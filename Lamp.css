@@ -1,0 +1,39 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+#Status{
+    font-size: 22px;
+}
+
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+canvas{
+    border-radius: 20px;
+    border: rgb(255, 87, 87) solid 5px;
+    margin-top: 30px;
+}
+
+#description{
+    font-size: 20px;
+    text-align: center;
+    width: 40%;
+    padding: 1px;
+    border-radius: 0px;
+    background-color: greenyellow;
+    border: green solid 2px;
+}
+
+.logout{
+    float: right;
+    width: 300px;
+    height: 25px;
+    border-radius: 20px;
+    font: coral 15px;
+    background-color: crimson;
+}

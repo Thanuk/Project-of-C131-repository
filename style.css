@@ -16,67 +16,12 @@ canvas{
     border: rgb(255, 87, 87) solid 5px;
 }
 
-#Object_Lamp{
+a{
     width: 200px;
     height: 40px;
     text-align: center;
     font-size: 20px;
-    border-radius: 20px;
-    border: green solid 5px;
-    color: brown;
-    background-color: yellow;
-} 
-
-#Object_Cactus{
-    width: 200px;
-    height: 40px;
-    text-align: center;
-    font-size: 20px;
-    border-radius: 20px;
-    border: green solid 5px;
-    color: brown;
-    background-color: yellow;
-} 
-
-#Object_Teddy{
-    width: 200px;
-    height: 40px;
-    text-align: center;
-    font-size: 20px;
-    border-radius: 20px;
-    border: green solid 5px;
-    color: brown;
-    background-color: yellow;
-} 
-
-#Object_Rubix{
-    width: 200px;
-    height: 40px;
-    text-align: center;
-    font-size: 20px;
-    border-radius: 20px;
-    border: green solid 5px;
-    color: brown;
-    background-color: yellow;
-} 
-
-#Object_Basket{
-    width: 200px;
-    height: 40px;
-    text-align: center;
-    font-size: 20px;
-    border-radius: 20px;
-    border: green solid 5px;
-    color: brown;
-    background-color: yellow;
-} 
-
-#Object_Spectacles{
-    width: 200px;
-    height: 40px;
-    text-align: center;
-    font-size: 20px;
-    border-radius: 20px;
+    border-radius: 40px;
     border: green solid 5px;
     color: brown;
     background-color: yellow;
